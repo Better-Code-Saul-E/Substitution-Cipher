@@ -1,0 +1,14 @@
+C:\Users\saule\source\repos\SubstitutionCipher\SubstitutionCipher\bin\Debug\net8.0\SubstitutionCipher.exe
+C:\Users\saule\source\repos\SubstitutionCipher\SubstitutionCipher\bin\Debug\net8.0\SubstitutionCipher.deps.json
+C:\Users\saule\source\repos\SubstitutionCipher\SubstitutionCipher\bin\Debug\net8.0\SubstitutionCipher.runtimeconfig.json
+C:\Users\saule\source\repos\SubstitutionCipher\SubstitutionCipher\bin\Debug\net8.0\SubstitutionCipher.dll
+C:\Users\saule\source\repos\SubstitutionCipher\SubstitutionCipher\bin\Debug\net8.0\SubstitutionCipher.pdb
+C:\Users\saule\source\repos\SubstitutionCipher\SubstitutionCipher\obj\Debug\net8.0\SubstitutionCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saule\source\repos\SubstitutionCipher\SubstitutionCipher\obj\Debug\net8.0\SubstitutionCipher.AssemblyInfoInputs.cache
+C:\Users\saule\source\repos\SubstitutionCipher\SubstitutionCipher\obj\Debug\net8.0\SubstitutionCipher.AssemblyInfo.cs
+C:\Users\saule\source\repos\SubstitutionCipher\SubstitutionCipher\obj\Debug\net8.0\SubstitutionCipher.csproj.CoreCompileInputs.cache
+C:\Users\saule\source\repos\SubstitutionCipher\SubstitutionCipher\obj\Debug\net8.0\SubstitutionCipher.dll
+C:\Users\saule\source\repos\SubstitutionCipher\SubstitutionCipher\obj\Debug\net8.0\refint\SubstitutionCipher.dll
+C:\Users\saule\source\repos\SubstitutionCipher\SubstitutionCipher\obj\Debug\net8.0\SubstitutionCipher.pdb
+C:\Users\saule\source\repos\SubstitutionCipher\SubstitutionCipher\obj\Debug\net8.0\SubstitutionCipher.genruntimeconfig.cache
+C:\Users\saule\source\repos\SubstitutionCipher\SubstitutionCipher\obj\Debug\net8.0\ref\SubstitutionCipher.dll
